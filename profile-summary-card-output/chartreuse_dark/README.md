@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/shunyama/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
