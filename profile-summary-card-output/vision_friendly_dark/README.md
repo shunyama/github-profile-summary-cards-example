@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/shunyama/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/shunyama/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)
-```
-
-    
